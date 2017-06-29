@@ -1,0 +1,5 @@
+package com.app.model;
+
+public enum Status {
+	APPROVED, PENDING, REJECTED, COMPLETED,INVOICED,CLOSED, PENDING_UPDATE
+}
